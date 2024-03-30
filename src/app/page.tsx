@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export function Home() {
+export default function Home() {
   return (
     <section className="w-full py-12 md:py-24">
       <div className="container grid items-center gap-4 px-4 text-center md:px-6">
